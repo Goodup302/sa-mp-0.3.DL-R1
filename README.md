@@ -1,4 +1,4 @@
-# sa-mp-0.3.DL-R1
+# GTA SA-MP-0.3.DL-R1
 
 Files for sa-mp-0.3.DL-R1 Server/Client Linux/Windows
 
